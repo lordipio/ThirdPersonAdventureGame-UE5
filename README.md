@@ -8,4 +8,4 @@
 
 
 ### Videos
-[![Untitled-2](https://github.com/lordipio/ThirdPersonGame-UE5/assets/88454144/90fcfe4f-d3e6-47e5-a5b6-6ab0cb28b0de)](https://www.youtube.com/watch?v=50zPQGPLdZk)
+[Watch From Youtube!](https://youtu.be/50zPQGPLdZk)
